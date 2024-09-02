@@ -58,20 +58,20 @@ Here are some ideas to get you started:
 <h3 align="left">CICD tools:</h3>
 <p align="left">
 <a href="https://about.gitlab.com/" target="_blank">
-  <img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/2346/gitlab_logo.png" alt="GitLab" height="30" width="40" />
+  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/gitlab-logo.png" alt="GitLab" height="30" width="40" />
 </a>
 
 
 <a href="https://github.com/features/actions" target="_blank">
-  <img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Actions" height="30" width="40" />
+  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-github.svg" alt="GitHub Actions" height="30" width="40" />
 </a>
 
 <a href="https://www.jenkins.io/" target="_blank">
-  <img align="center" src="https://www.jenkins.io/images/logos/jenkins/jenkins_logo.png" alt="Jenkins" height="30" width="40" />
+  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/jenkins-svgrepo-com.svg" alt="Jenkins" height="30" width="40" />
 </a>
 
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
-  <img align="center" src="https://docs.microsoft.com/en-us/media/logos/azure.svg" alt="Azure CI/CD" height="30" width="40" />
+  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/Azure.svg" alt="Azure CI/CD" height="30" width="40" />
 </a>
 
 
