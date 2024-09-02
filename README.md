@@ -48,18 +48,16 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
-<a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
+<a href="https://spring.io/projects/spring-framework" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/spring.svg" alt="Spring" height="30" width="40" /></a>
+<a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-spring-boot.svg" alt="Spring Boot" height="30" width="40" /></a>
+
+<a href="(https://nodejs.org/en)" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/nodejs-logo-svgrepo-com.svg" alt="NodeJs" height="30" width="40" /></a>
+
 </p>
 
 <br>
 <h3 align="left">CICD tools:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
-<a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
-</p>
+
 
 ---
 
