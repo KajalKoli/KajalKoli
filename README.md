@@ -50,8 +50,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://spring.io/projects/spring-framework" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/spring.svg" alt="Spring" height="30" width="40" /></a>
 <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-spring-boot.svg" alt="Spring Boot" height="30" width="40" /></a>
-
-<a href="(https://nodejs.org/en)" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/nodejs-logo-svgrepo-com.svg" alt="NodeJs" height="30" width="40" /></a>
+<a href="https://nodejs.org/en" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/nodejs-logo-svgrepo-com.svg" alt="NodeJs" height="30" width="40" /></a>
 
 </p>
 
