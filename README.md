@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-😄 Pronouns: She/Her<br>🌱 I’m currently learning more about AI and ML.
+😄 Pronouns: She/Her<br>🌱 I’m currently learning more about AI and ML. 📚 I love reading. 
 
 
 # 💻 Tech Stack:
