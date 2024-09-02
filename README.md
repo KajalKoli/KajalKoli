@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-[Get my latest Resume here!](https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf)
+[Get my latest Resume here](https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf)
 </p>
 
 # 💻 Tech Stack:
