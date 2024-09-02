@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 </p>
 
 
-[Download Resume](https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf)
+<div style="text-align: center;">
+    <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" target="_blank">Download Resume</a>
+</div>
+
 
 ---
 
