@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks I've worked with:</h3>
 <p align="left">
 <a href="https://spring.io/projects/spring-framework" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/spring.svg" alt="Spring" height="30" width="40" /></a>
 <a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-spring-boot.svg" alt="Spring Boot" height="30" width="40" /></a>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<h3 align="left">CICD tools:</h3>
+<h3 align="left">CICD tools I've worked on:</h3>
 <p align="left">
 <a href="https://about.gitlab.com/" target="_blank">
   <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/gitlab-logo.png" alt="GitLab" height="30" width="40" />
