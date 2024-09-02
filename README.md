@@ -27,12 +27,33 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">
+
 [Download Resume](https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf)
-</h3>
 
+---
 
+<h3 align="right">Languages I've worked with: </h3>
+<p align="right">
+<a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
+<a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
+</p>
 
+<br>
+<h3 align="right">Frameworks:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
+<a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
+</p>
+
+<br>
+<h3 align="right">CICD tools:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
+<a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
+</p>
 
 ---
 
