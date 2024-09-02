@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/java.svg" alt="Java" height="30" width="40" /></a>
 <a href="https://www.cprogramming.com/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/c.svg" alt="C" height="30" width="40" /></a>   
 
-<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by edt.im - Flaticon</a>" alt="Typescript" height="30" width="40" /></a>
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src=""https://www.flaticon.com/free-icons/javascript" alt="Typescript" height="30" width="40" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src=<a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by edt.im - Flaticon</a>" alt="Javascript" height="30" width="40" /></a>
     
 <a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/cpp.svg" alt="C++" height="30" width="40" /></a>
