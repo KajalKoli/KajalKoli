@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.java.com/en/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/java.svg" alt="Java" height="30" width="40" /></a>
 <a href="https://www.cprogramming.com/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/c.svg" alt="C" height="30" width="40" /></a>   
-<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://www.flaticon.com/free-icons/typescript" alt="Typescript" height="30" width="40" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://www.flaticon.com/free-icons/javascript" alt="Javascript" height="30" width="40" /></a>    
+<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/typescript.svg" alt="Typescript" height="30" width="40" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/javascript.svg" alt="Javascript" height="30" width="40" /></a>    
 <a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/cpp.svg" alt="C++" height="30" width="40" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/python.svg" alt="Python" height="30" width="40" /></a>
 </p>
