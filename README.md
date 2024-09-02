@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkoli&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkoli" /> </p>
 
-<div style="text-align: right;">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
 <a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kajalkoliyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
 </p>
-</div>
 
 
 # 💫 About Me:
