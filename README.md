@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/KajalKoli/BlockChain" target="blank"> blockChain project </a>
 </p>
 
----
+
 
 <h3 align="left">Languages I've worked with: </h3>
 <p align="left">
