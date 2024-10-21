@@ -32,6 +32,11 @@ Here are some ideas to get you started:
     <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" target="_blank">Download Resume</a>
 </div>
 
+---
+
+<h3 align="left">Currently learning/working on: </h3>
+<p align="left">
+<a href="[https://www.java.com/en/](https://github.com/KajalKoli/BlockChain)" target="blank"></a>
 
 ---
 
