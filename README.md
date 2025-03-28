@@ -12,7 +12,7 @@ Hey there, I'm Kajal Koli!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkoli&label=Profile%20views&color=8E4585&style=flat" alt="kajalkoli" /> </p>
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right" style="color:8E4585;">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
 <a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
@@ -20,7 +20,7 @@ Hey there, I'm Kajal Koli!
 </p>
 
 <!----------------------- frameworks --------------------------------------------------------->
-<h2 align="left"> 💻 Frameworks:</h2>
+<h2 tyle="color:8E4585;" align="left"> 💻 Frameworks:</h2>
 <table align="center">
 <tr>
   <td align="center" width="96">
@@ -51,7 +51,7 @@ Hey there, I'm Kajal Koli!
 
 </table>
 <!-----------------------------languages ----------------------------------------------------->
-<h2 align="left"> 💻 Languages:</h2>
+<h2 tyle="color:8E4585;" align="left"> 💻 Languages:</h2>
 
 <table align="center">
  <tr>
@@ -105,7 +105,7 @@ Hey there, I'm Kajal Koli!
 </table>
 
 <!-------------------------------tools --------------------------------------->
-<h2 align="left"> 💻 Tools:</h2>
+<h2 tyle="color:8E4585;" align="left"> 💻 Tools:</h2>
 
 <table align="center">
 <tr>
@@ -144,7 +144,7 @@ Hey there, I'm Kajal Koli!
 </table>
 
 <!-------------------------------------CICD----------------------------------------------->
-<h2 align="left"> 💻 CICD/DevOps:</h2>
+<h2 tyle="color:8E4585;" align="left"> 💻 CICD/DevOps:</h2>
 <table align="center">
 <tr>
   <td align="center" width="96">
