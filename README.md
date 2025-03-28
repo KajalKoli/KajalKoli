@@ -50,7 +50,7 @@ Hey there, I'm Kajal Koli!
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalKoli&layout=compact)
 
 
 ### Employer?
