@@ -22,7 +22,7 @@ Hey there, I'm Kajal Koli!
 <h2 align="left"> Currently on my mind </h2>
 
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=700&lines=Nonchalance+is+the+death+of+passion;" alt="Nonchalance is the death of passion"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=700&lines=Nonchalance+is+the+death+of+passion...;" alt="Nonchalance is the death of passion"/>
 </a>
 <!----------------------- frameworks --------------------------------------------------------->
 <h2 style="color:8E4585;" align="left"> 💻 Frameworks:</h2>
