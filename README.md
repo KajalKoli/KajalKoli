@@ -20,16 +20,6 @@ Hey there, I'm Kajal Koli!
 </p>
 
 <br>
-
-<h3 align="left">Frameworks I've worked with:</h3>
-<p align="left">
-<a href="https://spring.io/projects/spring-framework" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/spring.svg" alt="Spring" height="30" width="40" /></a>
-<a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-spring-boot.svg" alt="Spring Boot" height="30" width="40" /></a>
-<a href="https://nodejs.org/en" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/nodejs-logo-svgrepo-com.svg" alt="NodeJs" height="30" width="40" /></a>
-
-</p>
-----------------------------------------
-<br>
 <h3 align="left">CICD tools I've worked on:</h3>
 <p align="left">
 <a href="https://about.gitlab.com/" target="_blank">
@@ -49,8 +39,39 @@ Hey there, I'm Kajal Koli!
   <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/Azure.svg" alt="Azure CI/CD" height="30" width="40" />
 </a>
 </p>
+<!----------------------- frameworks --------------------------------------------------------->
+<h2 align="left"> 💻 Frameworks:</h2>
+<table align="center">
+<tr>
+  <td align="center" width="96">
+    <a href="#spring">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="48" height="48" alt="Spring" />
+    </a>
+    <br>Spring
+  </td>
+  <td align="center" width="96">
+    <a href="#springboot">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="48" height="48" alt="Spring Boot" />
+    </a>
+    <br>Spring Boot
+  </td>
+  <td align="center" width="96">
+    <a href="#nodejs">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Node.js" />
+    </a>
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <a href="#springai">
+      <img src="https://spring.io/images/projects/spring-ai.svg" width="48" height="48" alt="Spring AI" />
+    </a>
+    <br>Spring AI
+  </td>
+</tr>
 
-<h2 align="left"> 💻 Languages and Tools:</h2>
+</table>
+<!-----------------------------languages ----------------------------------------------------->
+<h2 align="left"> 💻 Languages:</h2>
 
 <table align="center">
  <tr>
@@ -101,10 +122,9 @@ Hey there, I'm Kajal Koli!
   </td>
 </tr>
 
+</table>
 
-
-
-<!-- ---->
+<!-------------------------------tools --------------------------------------->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--                               -->
 <h2 align="left"> 💻 Tools:</h2>
@@ -145,6 +165,40 @@ Hey there, I'm Kajal Koli!
 
 </table>
 
+<!-------------------------------------CICD----------------------------------------------->
+<h2 align="left"> 💻 Tools:</h2>
+
+<table align="center">
+<tr>
+  <td align="center" width="96">
+    <a href="#azurepipelines">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Azure-pipelines-icon.png" width="48" height="48" alt="Azure Pipelines" />
+    </a>
+    <br>Azure Pipelines
+  </td>
+  <td align="center" width="96">
+    <a href="#githubactions">
+      <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="48" height="48" alt="GitHub Actions" />
+    </a>
+    <br>GitHub Actions
+  </td>
+  <td align="center" width="96">
+    <a href="#gitlabactions">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitLab_logo.svg" width="48" height="48" alt="GitLab Actions" />
+    </a>
+    <br>GitLab Actions
+  </td>
+  <td align="center" width="96">
+    <a href="#jenkins">
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins" />
+    </a>
+    <br>Jenkins
+  </td>
+</tr>
+
+</table>
+
+<!------------------------------------stats------------------------------------------------>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalKoli&layout=compact&cache_seconds=3600)
 
 
