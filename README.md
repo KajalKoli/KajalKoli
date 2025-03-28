@@ -52,7 +52,9 @@ Hey there, I'm Kajal Koli!
 
 </p>
 ---------------------------------
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkoli)](https://github.com/kajalkoli/github-readme-stats)
+</br>
 ---------------------------------
 ### Employer?
 > [!IMPORTANT]  
