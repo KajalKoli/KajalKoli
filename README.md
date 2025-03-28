@@ -20,6 +20,6 @@ Hey there, I'm Kajal Koli!
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" download>Download my resume</a>
+> <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" download>View my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E4585&height=120&section=footer" alt="footer"/>
