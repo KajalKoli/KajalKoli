@@ -48,13 +48,9 @@ Hey there, I'm Kajal Koli!
 <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
   <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/Azure.svg" alt="Azure CI/CD" height="30" width="40" />
 </a>
-
-
 </p>
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkoli)](https://github.com/kajalkoli/github-readme-stats)
-</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 
 ### Employer?
