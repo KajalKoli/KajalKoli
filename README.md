@@ -10,6 +10,8 @@ Hey there, I'm Kajal Koli!
  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Hello%2C+it's+Kajal+Koli;Software+Engineer;Product+Developer;Java+Programmer;Writer;Aspiring+Novelist" alt="Kajal Koli"/>
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkoli&label=Profile%20views&color=8E4585&style=flat" alt="kajalkoli" /> </p>
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
