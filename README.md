@@ -172,6 +172,33 @@ Hey there, I'm Kajal Koli!
       <br>deepseek
     </td> 
   </tr>
+  <tr>
+  <td align="center" width="96">
+    <a href="#java">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
+    </a>
+    <br>Java
+  </td>
+  <td align="center" width="96">
+    <a href="#springboot">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
+    </a>
+    <br>Spring Boot
+  </td>
+  <td align="center" width="96">
+    <a href="#mysql">
+      <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
+    </a>
+    <br>MySQL
+  </td>
+  <td align="center" width="96">
+    <a href="#github">
+      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="GitHub" />
+    </a>
+    <br>GitHub
+  </td>
+</tr>
+
 </table>
 
 
