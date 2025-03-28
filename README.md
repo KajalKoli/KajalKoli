@@ -234,7 +234,7 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#jira">
-      <img src="https://commons.wikimedia.org/wiki/File:Jira_Logo.svg" width="48" height="48" alt="JIRA" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg " width="48" height="48" alt="JIRA" />
     </a>
     <br>JIRA
   </td>
