@@ -203,7 +203,7 @@ Hey there, I'm Kajal Koli!
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--                               -->
 <h2 align="left"> 💻 Tools:</h2>
 
 <table align="center">
@@ -222,7 +222,7 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#putty">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/PuTTY_icon_128px.png/640px-PuTTY_icon_128px.png" width="48" height="48" alt="Putty" />
+      <img src="https://commons.wikimedia.org/wiki/File:PuTTY_Icon.svg" width="48" height="48" alt="Putty" />
     </a>
     <br>Putty
   </td>
@@ -234,7 +234,7 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#jira">
-      <img src="https://seeklogo.com/images/J/jira-logo-FD39BE00A1-seeklogo.com.png" width="48" height="48" alt="JIRA" />
+      <img src="https://commons.wikimedia.org/wiki/File:Jira_Logo.svg" width="48" height="48" alt="JIRA" />
     </a>
     <br>JIRA
   </td>
