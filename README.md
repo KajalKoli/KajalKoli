@@ -19,26 +19,6 @@ Hey there, I'm Kajal Koli!
 <a href="https://www.youtube.com/c/KajalkoliYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
 </p>
 
-<br>
-<h3 align="left">CICD tools I've worked on:</h3>
-<p align="left">
-<a href="https://about.gitlab.com/" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/gitlab-logo.png" alt="GitLab" height="30" width="40" />
-</a>
-
-
-<a href="https://github.com/features/actions" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-github.svg" alt="GitHub Actions" height="30" width="40" />
-</a>
-
-<a href="https://www.jenkins.io/" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/jenkins-svgrepo-com.svg" alt="Jenkins" height="30" width="40" />
-</a>
-
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/Azure.svg" alt="Azure CI/CD" height="30" width="40" />
-</a>
-</p>
 <!----------------------- frameworks --------------------------------------------------------->
 <h2 align="left"> 💻 Frameworks:</h2>
 <table align="center">
@@ -63,7 +43,7 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#springai">
-      <img src="https://spring.io/images/projects/spring-ai.svg" width="48" height="48" alt="Spring AI" />
+      <img src="https://spring.io/img/projects/spring.svg" width="48" height="48" alt="Spring AI" />
     </a>
     <br>Spring AI
   </td>
