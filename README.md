@@ -7,7 +7,7 @@ Hey there, I'm Kajal Koli!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E4585&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Nonchalance+is+the+death+of+passion;" alt="Nonchalance is the death of passion"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Hello%2C+it's+Kajal+Koli;Software+Engineer;Product+Developer;Java+Programmer;Writer;Aspiring+Novelist" alt="Kajal Koli"/>
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkoli&label=Profile%20views&color=8E4585&style=flat" alt="kajalkoli" /> </p>
@@ -20,8 +20,9 @@ Hey there, I'm Kajal Koli!
 
 <!-----------------------------currently thinking about----------------------------------------------------->
 <h2 align="left"> Currently on my mind </h2>
+
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Hello%2C+it's+Kajal+Koli;Software+Engineer;Product+Developer;Java+Programmer;Writer;Aspiring+Novelist" alt="Kajal Koli"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Nonchalance+is+the+death+of+passion;" alt="Nonchalance is the death of passion"/>
 </a>
 <!----------------------- frameworks --------------------------------------------------------->
 <h2 style="color:8E4585;" align="left"> 💻 Frameworks:</h2>
