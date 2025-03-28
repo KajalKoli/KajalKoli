@@ -158,13 +158,13 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#githubactions">
-      <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="48" height="48" alt="GitHub Actions" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="48" height="48" alt="GitHub Actions" />
     </a>
     <br>GitHub Actions
   </td>
   <td align="center" width="96">
     <a href="#gitlabactions">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/GitLab_logo.svg" width="48" height="48" alt="GitLab Actions" />
+      <img src="https://docs.gitlab.com/gitlab-logo-header.svg" width="48" height="48" alt="GitLab Actions" />
     </a>
     <br>GitLab Actions
   </td>
