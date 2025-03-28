@@ -152,13 +152,13 @@ Hey there, I'm Kajal Koli!
 <tr>
   <td align="center" width="96">
     <a href="#azurepipelines">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Azure-pipelines-icon.png" width="48" height="48" alt="Azure Pipelines" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="48" height="48" alt="Azure Pipelines" />
     </a>
     <br>Azure Pipelines
   </td>
   <td align="center" width="96">
     <a href="#githubactions">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="48" height="48" alt="GitHub Actions" />
+      <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="48" height="48" alt="GitHub Actions" />
     </a>
     <br>GitHub Actions
   </td>
