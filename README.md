@@ -19,8 +19,8 @@ Hey there, I'm Kajal Koli!
 <a href="https://www.youtube.com/c/KajalkoliYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
 </p>
 
----------------------------------
 <br>
+
 <h3 align="left">Frameworks I've worked with:</h3>
 <p align="left">
 <a href="https://spring.io/projects/spring-framework" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/spring.svg" alt="Spring" height="30" width="40" /></a>
@@ -28,7 +28,7 @@ Hey there, I'm Kajal Koli!
 <a href="https://nodejs.org/en" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/nodejs-logo-svgrepo-com.svg" alt="NodeJs" height="30" width="40" /></a>
 
 </p>
-
+----------------------------------------
 <br>
 <h3 align="left">CICD tools I've worked on:</h3>
 <p align="left">
@@ -51,11 +51,12 @@ Hey there, I'm Kajal Koli!
 
 
 </p>
----------------------------------
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkoli)](https://github.com/kajalkoli/github-readme-stats)
 </br>
----------------------------------
+
+
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" download>View my resume</a>
