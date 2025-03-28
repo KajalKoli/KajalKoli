@@ -12,7 +12,7 @@ Hey there, I'm Kajal Koli!
 
 <a href="https://git.io/typing-svg">
  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Nonchalance+is+the+death+of+passion" alt="Nonchalance is the death of passion"/>
+  font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8E4585&width=435&lines=Nonchalance+is+the+death+of+passion;" alt="Nonchalance is the death of passion"/>
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkoli&label=Profile%20views&color=8E4585&style=flat" alt="kajalkoli" /> </p>
