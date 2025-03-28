@@ -1,94 +1,67 @@
 <!--
-**KajalKoli/KajalKoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey there, I'm Kajal Koli!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Happy to see you here exploring my README code
+
+Feel free to inspire!
+
+But may I please ask you to follow me in return? Just a click!
+
+You may also want to connect with me on LinkedIn :))
+
 -->
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header" alt="header"/>
 
-<h1 align="center">Hi 👋, I'm Kajal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFD700&width=435&lines=Hello%2C+it's+Kajal+Koli;Java+RCP+Developer;Aspiring+Guitarist;Curious+Problem+Solver" alt="Kajal Koli"/>
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkoli&label=Profile%20views&color=0e75b6&style=flat" alt="kajalkoli" /> </p>
+<!--
 
+Your own Terminal GIF can be created here -> https://www.terminalgif.com
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/kajalkoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajalkoli" height="30" width="40" /></a>
-<a href="https://instagram.com/kajal_koli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kajal_koli" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/KajalkoliYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kajalkoliyt" height="30" width="40" /></a>
-</p>
+-->
 
-
-<div style="text-align: center;">
-    <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" target="_blank">Download Resume</a>
+<div>
+ <img src="./assets/about_kajal.gif" alt="About Me Terminal GIF"/>
 </div>
 
----
+### My mission
 
-<h3 align="left">Currently learning/working on: </h3>
-<p align="left">
-<a href="https://github.com/KajalKoli/BlockChain" target="blank"> blockChain project </a>
-</p>
+I’m driven by a passion for solving problems! With a technical background and a curious mind, I love exploring code, building cool applications, and diving deep into tech. My mission is to create meaningful solutions, refine my development skills, and share my knowledge with others.
 
+### Main skills
 
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,git,github,mysql,html,css,js,bootstrap)](https://skillicons.dev)
 
-<h3 align="left">Languages I've worked with: </h3>
-<p align="left">
-<a href="https://www.java.com/en/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/java.svg" alt="Java" height="30" width="40" /></a>
-<a href="https://www.cprogramming.com/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/c.svg" alt="C" height="30" width="40" /></a>   
-<a href="https://isocpp.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/cpp.svg" alt="C++" height="30" width="40" /></a>
-<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/typescript.svg" alt="Typescript" height="30" width="40" /></a>
-<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/javascript.svg" alt="Javascript" height="30" width="40" /></a>    
-<a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/python.svg" alt="Python" height="30" width="40" /></a>
-</p>
+### Studying
 
-<br>
-<h3 align="left">Frameworks I've worked with:</h3>
-<p align="left">
-<a href="https://spring.io/projects/spring-framework" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/spring.svg" alt="Spring" height="30" width="40" /></a>
-<a href="https://spring.io/projects/spring-boot" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-spring-boot.svg" alt="Spring Boot" height="30" width="40" /></a>
-<a href="https://nodejs.org/en" target="blank"><img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/nodejs-logo-svgrepo-com.svg" alt="NodeJs" height="30" width="40" /></a>
+[![Learning](https://skillicons.dev/icons?i=react,nodejs,aws)](https://skillicons.dev)
 
-</p>
+### Publications
 
-<br>
-<h3 align="left">CICD tools I've worked on:</h3>
-<p align="left">
-<a href="https://about.gitlab.com/" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/gitlab-logo.png" alt="GitLab" height="30" width="40" />
+<div>
+ <a href="https://instagram.com/KajalKoli">
+ <img src="https://img.shields.io/badge/Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
+ </a>
+
+ <a href="https://github.com/KajalKoli">
+ <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="GitHub">
+ </a>
+</div>
+
+You can find my projects, journal spreads, and creative experiments on GitHub and Instagram. I enjoy documenting my journey, sharing insights, and exploring new ideas along the way.
+
+Check out my latest journal spreads <br>
+
+<a target="_blank" href="https://instagram.com/KajalKoli">
+ <img src="https://github-readme-medium-recent-article.vercel.app/medium/@kajal_koli/0">
 </a>
 
+### Let's connect!
 
-<a href="https://github.com/features/actions" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/icons8-github.svg" alt="GitHub Actions" height="30" width="40" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajal-koli)
 
-<a href="https://www.jenkins.io/" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/jenkins-svgrepo-com.svg" alt="Jenkins" height="30" width="40" />
-</a>
-
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
-  <img align="center" src="https://github.com/KajalKoli/Resume/blob/main/imgs/Azure.svg" alt="Azure CI/CD" height="30" width="40" />
-</a>
-
-
-</p>
-
-
-
-# 💻 Others:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer" alt="footer"/>
