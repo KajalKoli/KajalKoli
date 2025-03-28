@@ -105,8 +105,6 @@ Hey there, I'm Kajal Koli!
 </table>
 
 <!-------------------------------tools --------------------------------------->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--                               -->
 <h2 align="left"> 💻 Tools:</h2>
 
 <table align="center">
@@ -146,8 +144,7 @@ Hey there, I'm Kajal Koli!
 </table>
 
 <!-------------------------------------CICD----------------------------------------------->
-<h2 align="left"> 💻 Tools:</h2>
-
+<h2 align="left"> 💻 CICD/DevOps:</h2>
 <table align="center">
 <tr>
   <td align="center" width="96">
