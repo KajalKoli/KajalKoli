@@ -53,126 +53,7 @@ Hey there, I'm Kajal Koli!
 <h2 align="left"> 💻 Languages and Tools:</h2>
 
 <table align="center">
-  <tr>
-      <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="Css3" />
-      </a>
-      <br>CSS3
-    </td>
-     <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
-      </a>
-      <br>Javascript
-    </td>
-     <td align="center" width="96">
-      <a href="#php">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm4utLiLDakPKYEeqnaSMjOBpE9XdqIjZU2tY7eUKmIt6v4ThJIEXBEFVDgj9hbubhZtI&usqp=CAU" width="48" height="48" alt="php" />
-      </a>
-      <br>php
-    </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
-      </a>
-      <br>Vue JS
-    </td>
-  </tr>
-
-  <tr>
-<td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-<td align="center" width="96">
-      <a href="#tailwind">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-      <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEKNwby0l9dX5fW0krQcPlGrES_m0PBBVWT7yagQikMWoQnY45yXxdSe4wks7-DPGon8&usqp=CAU" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center" width="96">
-      <a href="#gitlab" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6r1V0sLeLyDpcH-5qCwzNmsUDwuhxmpO4Wg&s" width="48" height="48" alt="gitlab" />
-      </a>
-      <br>gitlab
-    </td>
-      <td align="center" width="96">
-      <a href="#bitbucket" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AjPSv8J9Y0FPL7inda7RU36Du0bfuZISNg&s" width="48" height="48" alt="bitbucket" />
-      </a>
-      <br>bitbucket
-    </td>
-      <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
-      </a>
-      <br>VS Code
-    </td>
-      <td align="center" width="96">
-      <a href="#postman" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Postman
-    </td>
-
-  </tr>
-  <tr>
-	<td align="center" width="96">
-      <a href="#chatGpt" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="48" height="48" alt="chatGpt" />
-      </a>
-      <br>chatGpt
-    </td> 
-	<td align="center" width="96">
-      <a href="#deepseek" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/1024px-DeepSeek_logo.svg.png" width="48" height="48" alt="deepseek" />
-      </a>
-      <br>deepseek
-    </td> 
-  </tr>
-  <tr>
+ <tr>
   <td align="center" width="96">
     <a href="#java">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
@@ -180,28 +61,50 @@ Hey there, I'm Kajal Koli!
     <br>Java
   </td>
   <td align="center" width="96">
-    <a href="#springboot">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
+    <a href="#typescript">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
     </a>
-    <br>Spring Boot
+    <br>TypeScript
   </td>
   <td align="center" width="96">
-    <a href="#mysql">
-      <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
+    <a href="#javascript">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
     </a>
-    <br>MySQL
+    <br>JavaScript
   </td>
   <td align="center" width="96">
-    <a href="#github">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="GitHub" />
+    <a href="#c">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="48" height="48" alt="C" />
     </a>
-    <br>GitHub
+    <br>C
+  </td>
+  <td align="center" width="96">
+    <a href="#cplusplus">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48" height="48" alt="C++" />
+    </a>
+    <br>C++
   </td>
 </tr>
 
-</table>
+<tr>
+  <td align="center" width="96">
+    <a href="#html5">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML5" />
+    </a>
+    <br>HTML5
+  </td>
+  <td align="center" width="96">
+    <a href="#css3">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" alt="CSS3" />
+    </a>
+    <br>CSS3
+  </td>
+</tr>
 
 
+
+
+<!-- ---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--                               -->
 <h2 align="left"> 💻 Tools:</h2>
@@ -222,7 +125,7 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#putty">
-      <img src="https://commons.wikimedia.org/wiki/File:PuTTY_Icon.svg" width="48" height="48" alt="Putty" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg" width="48" height="48" alt="Putty" />
     </a>
     <br>Putty
   </td>
