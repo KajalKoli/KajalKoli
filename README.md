@@ -204,6 +204,124 @@ Hey there, I'm Kajal Koli!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="left">💻 Languages and Tools:</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#java">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#mysql">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#springboot">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#restapi">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="REST API" />
+      </a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a href="#git">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#github">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#gitlab">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" width="48" height="48" alt="GitLab" />
+      </a>
+      <br>GitLab
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#bitbucket">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" width="48" height="48" alt="Bitbucket" />
+      </a>
+      <br>Bitbucket
+    </td>
+    <td align="center" width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="#eclipse">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg" width="48" height="48" alt="Eclipse" />
+      </a>
+      <br>Eclipse
+    </td>
+    <td align="center" width="96">
+      <a href="#postman">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#putty">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/PuTTY_icon_128px.png/640px-PuTTY_icon_128px.png" width="48" height="48" alt="Putty" />
+      </a>
+      <br>Putty
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#jira">
+        <img src="https://seeklogo.com/images/J/jira-logo-FD39BE00A1-seeklogo.com.png" width="48" height="48" alt="JIRA" />
+      </a>
+      <br>JIRA
+    </td>
+    <td align="center" width="96">
+      <a href="#ubuntu">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ubuntu_logo_2013.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+  </tr>
+</table>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalKoli&layout=compact&cache_seconds=3600)
 
