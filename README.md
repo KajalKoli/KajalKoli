@@ -204,6 +204,9 @@ Hey there, I'm Kajal Koli!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2 align="left"> 💻 Tools:</h2>
+
+<table align="center">
 <tr>
   <td align="center" width="96">
     <a href="#eclipse">
@@ -237,7 +240,7 @@ Hey there, I'm Kajal Koli!
   </td>
 </tr>
 
-
+</table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalKoli&layout=compact&cache_seconds=3600)
 
