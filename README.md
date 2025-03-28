@@ -52,8 +52,7 @@ Hey there, I'm Kajal Koli!
 
 </p>
 ---------------------------------
-![Kajal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kajalkoli&layout=compact&langs_count=8&hide_border=true)
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkoli)](https://github.com/kajalkoli/github-readme-stats)
 ---------------------------------
 ### Employer?
 > [!IMPORTANT]  
