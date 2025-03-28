@@ -52,7 +52,9 @@ Hey there, I'm Kajal Koli!
 
 </p>
 ---------------------------------
-
+![Kajal's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kajalkoli&layout=compact&langs_count=8&hide_border=true)
+<br />
+---------------------------------
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://github.com/KajalKoli/Resume/blob/main/Kajal-resume-sept.pdf" download>View my resume</a>
