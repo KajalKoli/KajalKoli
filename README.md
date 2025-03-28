@@ -125,7 +125,7 @@ Hey there, I'm Kajal Koli!
   </td>
   <td align="center" width="96">
     <a href="#putty">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg" width="48" height="48" alt="Putty" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/600px-PuTTY_Icon.svg.png?20220831174608" width="48" height="48" alt="Putty" />
     </a>
     <br>Putty
   </td>
